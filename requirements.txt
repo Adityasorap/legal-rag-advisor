@@ -1,0 +1,7 @@
+streamlit
+langchain
+pinecone-client
+python-dotenv
+transformers
+sentence-transformers
+PyMuPDF
